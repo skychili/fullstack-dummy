@@ -1,2 +1,7 @@
 /fullstack-dummy.iml
 /.idea/
+
+# Backend
+/backend/.mvn
+/backend/mvnw*
+/backend/target/
